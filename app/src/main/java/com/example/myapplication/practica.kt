@@ -13,7 +13,7 @@ fun main() {
     val charExample1:Char = '@'
     val charExample:Char = '2'
 
-    val booleanEjemplo:Boolean
+    val booleanEjemplo:Boolean = true
 
     print(exampleLong)
 
